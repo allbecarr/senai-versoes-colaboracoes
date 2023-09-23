@@ -3,5 +3,5 @@
 
  Readme de exemplo
 
-Lembrei do comando: git status
+Lembrei do comando: git commit
 
