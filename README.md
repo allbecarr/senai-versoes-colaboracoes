@@ -3,4 +3,4 @@
 
  Readme de exemplo
 
-Lembrei do comando: git ststus
+Lembrei do comando: git pull
